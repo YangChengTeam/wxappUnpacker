@@ -1,6 +1,25 @@
 # wxappUnpacker
 
 Wechat App(微信小程序, .wxapkg)解包及相关文件(.wxss, .json, .wxs, .wxml)还原工具
+##教程
+[微信小程序“反编译”实战（一）：解包](https://mp.weixin.qq.com/s/GnHzJWYFJUXYuvYq6Cb_FA)
+
+[微信小程序“反编译”实战（二）：源码还原](https://mp.weixin.qq.com/s/O3Ix91GkkS0ollYK_s6e_Q)
+
+##执行
+
+> 下载此工具包执行：
+
+````
+npm install
+````
+
+> 再执行以下命令
+
+````
+node wuWxapkg.js [-d] <path/to/.wxapkg>
+````
+
 
 ## 当前功能如下
 
