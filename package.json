@@ -1,0 +1,19 @@
+{
+  "name": "wxappunpacker-master",
+  "version": "1.0.0",
+  "description": "Wechat App(微信小程序, .wxapkg)解包及相关文件(.wxss, .json, .wxs, .wxml)还原工具",
+  "main": "wuConfig.js",
+  "dependencies": {
+    "css-tree": "^1.0.0-alpha.28",
+    "cssbeautify": "^0.3.1",
+    "esprima": "^4.0.0",
+    "uglify-es": "^3.3.9",
+    "vm2": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
